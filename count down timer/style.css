@@ -1,0 +1,30 @@
+#countdown {
+    text-align: center;
+    color: chartreuse;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+   
+  }
+  
+  #timer {
+    display: flex;
+    justify-content: center;
+    color: chartreuse;
+  }
+  
+  #timer div {
+    margin: 0 10px;
+  }
+  
+  #timer span {
+    display: block;
+    font-size: 24px;
+  }
+
+  body {
+
+
+    background-image: url("https://media.istockphoto.com/id/610242250/photo/afroamerican-boy-near-christmas-present.jpg?s=612x612&w=0&k=20&c=uaJ8_-_W2MeVz1wXkK4IxHoi82HcAJVMYPYmNdPrz2U=");
+   background-size: 100%;
+  }
+  

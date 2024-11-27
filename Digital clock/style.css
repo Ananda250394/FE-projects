@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://img.lovepik.com/background/20211021/medium/lovepik-time-hourglass-background-image_401621729.jpg");
+    background-size: 100%;
+   
+   
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #ffffff;
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 7px;
+   /* background-color: darkgoldenrod;
+   border-radius: 50%; */
+   /* background-image: url("https://img.lovepik.com/background/20211021/medium/lovepik-time-hourglass-background-image_401621729.jpg"); */
+  
+}
